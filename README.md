@@ -1,3 +1,3 @@
 # Cutzamala
 
-Documentación del trabajo que hice para obtener el grado de Especialista en Ingeniería Hidráulica
+Documentación del trabajo que presenté para obtener el grado de Especialista en Ingeniería Hidráulica
